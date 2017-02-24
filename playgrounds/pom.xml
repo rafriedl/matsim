@@ -144,7 +144,8 @@
 		<module>vspshk</module>
 		<module>wbean</module>
 		<module>vbmh</module>
-	</modules>
+        <module>rafriedl</module>
+    </modules>
 	<repositories>
 		<repository>
 			<!-- Geotools is not on Maven central -->
